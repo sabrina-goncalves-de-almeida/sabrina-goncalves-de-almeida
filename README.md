@@ -23,7 +23,7 @@
   <a href="https://www.youtube.com/channel/UCqLilg-Md7gTRoAsmWewEsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "sabrina.goncalves@dcx.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/linebinegames/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/5479831961772153" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%22222222?style=for-the-badge" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/5479831961772153" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
  
   ![Snake animation](https://github.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/blob/output/github-contribution-grid-snake.svg)
 

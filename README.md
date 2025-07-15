@@ -2,7 +2,7 @@
   <a href="https://github.com/sabrina-goncalves-de-almeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrina-goncalves-de-almeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-goncalves-de-almeida&layout=compact&langs_count=6&theme=radical"/>
-    <img src="https://github-profile-trophy.vercel.app?username=sabrina-goncalves-de-almeida&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sabrina-goncalves-de-almeida&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +27,8 @@
   <a href="http://lattes.cnpq.br/5479831961772153" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
  
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/output/pacman-contribution-graph-dark.svg">

@@ -26,3 +26,13 @@
   <a href="http://lattes.cnpq.br/5479831961772153" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%23003A88?style=for-the-badge" target="_blank"></a>
  
 </div>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+###

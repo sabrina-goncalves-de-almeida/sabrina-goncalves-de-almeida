@@ -46,7 +46,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sabrina-goncalves-de-almeida/sabrina-goncalves-de-almeida/output/snake.svg" alt="Snake animation" />
-
-###
